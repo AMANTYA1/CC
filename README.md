@@ -1,4 +1,3 @@
-# CC
-## Heroku Deployment <img src="./ImageFont/Kenpurple.gif" width="40px">
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/AMANTYA1/CC">
+  <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-aqua?style=flat&logo=heroku" width="325" height="50.100" /></a></p>
